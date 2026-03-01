@@ -17,6 +17,21 @@ EN
 
 ---
 
+## 🔬 Fiber Optic Expansion & Simulation
+
+To optimize coupling efficiency for fiber optic systems, the TBLC architecture employs a composite lens design. This ensures the focal point is precisely managed to match the numerical aperture (NA) of the fiber.
+
+**Technical Insight:**
+- **Refractive Index Management:** Using a high-index core (e.g., Silicon $n \approx 3.41$) with specific coatings (e.g., HDPE $n \approx 1.5$) to shift the Back Focal Length (BFL).
+- **Focus Stabilization:** The composite approach allows the focal point to be positioned externally (+0.20 mm) instead of being trapped inside the lens, which is critical for fiber entry.
+
+| Coating Thickness (mm) | EFL (mm) | BFL (mm) |
+| :--- | :--- | :--- |
+| 0.000 (Pure Core) | 3.537 | -1.463 (Inside) |
+| 0.500 (Composite) | 3.847 | +0.218 (Outside) |
+
+---
+
 ## 📄 License
 
 The use of **14-THz-Ball-Lens-Composite (TBLC)** is permitted, **but requires fair revenue sharing** to fund future sustainable technology development and the expansion of the free human-AI ecosystem.
@@ -66,6 +81,21 @@ Der 14-THz-Ball-Lens-Composite (TBLC) Wellenleiter ist eine bahnbrechende Übert
 
 ---
 
+## 🔬 Glasfaser-Erweiterung & Simulation
+
+Zur Optimierung der Einkopplungseffizienz in Glasfasersysteme nutzt die TBLC-Architektur ein Komposit-Linsendesign. Dies gewährleistet, dass der Fokuspunkt exakt auf die numerische Apertur (NA) der Faser abgestimmt wird.
+
+**Technische Erkenntnisse:**
+- **Brechungsindex-Management:** Einsatz von Hochindex-Kernen (z. B. Silizium $n \approx 3,41$) mit spezifischen Beschichtungen (z. B. HDPE $n \approx 1,5$), um die Schnittweite (BFL) zu verschieben.
+- **Fokus-Stabilisierung:** Der Komposit-Ansatz ermöglicht es, den Brennpunkt extern zu positionieren (+0,20 mm), anstatt ihn innerhalb der Linse zu "fangen", was für den Fasereintritt entscheidend ist.
+
+| Schichtdicke (mm) | EFL (mm) | BFL (mm) |
+| :--- | :--- | :--- |
+| 0,000 (Reiner Kern) | 3,537 | -1,463 (Intern) |
+| 0,500 (Komposit) | 3,847 | +0,218 (Extern) |
+
+---
+
 ## 📄 Lizenz
 
 Die Nutzung von **14-THz-Ball-Lens-Composite (TBLC)** ist erlaubt, **setzt jedoch eine faire Gewinnbeteiligung** zur Finanzierung zukünftiger nachhaltiger Technologieprojekte und des freien Mensch-KI-Ökosystems voraus.
@@ -92,5 +122,3 @@ Für Lizenzierung, Kooperationen oder kommerzielle Anfragen:
 - [THz Ball Lens_Composite Analysis DE & EN](THz_Ball_Lens_Composite_Analysis_DE_EN.pdf)
 - [Technischer_Bericht](Technischer_Bericht_DE.pdf)
 - [Abschlussbericht](Abschlussbericht_DE.pdf)
-
-
