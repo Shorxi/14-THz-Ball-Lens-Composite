@@ -39,10 +39,10 @@ For licensing, collaboration, or commercial inquiries:
 
 ## 📂 Repository Structure
 
-- [Final_Report_EN.pdf](Final_Report_EN.pdf)
-- [Technical_Report_EN.pdf](Technical_Report_EN.pdf)
-- [14-THz-Ball-Lens-Composite_EN.pdf](14-THz-Ball-Lens-Composite_EN.pdf)
-- [Scientific_Supplement_EN.pdf](Scientific_Supplement_EN.pdf) (Inland data & derivation)
+- [Final_Report](Final_Report_EN.pdf)
+- [Technical_Report](Technical_Report_EN.pdf)
+- [14-THz-Ball-Lens-Composite](14-THz-Ball-Lens-Composite_EN.pdf)
+- [Scientific_Supplement](Scientific_Supplement_EN.pdf) (Inland data & derivation)
 
 ---
 DE
@@ -87,7 +87,7 @@ Für Lizenzierung, Kooperationen oder kommerzielle Anfragen:
 
 ## 📂 Repository-Struktur
 
-- [Abschlussbericht_DE.pdf](Abschlussbericht_DE.pdf)
-- [Technischer_Bericht_DE.pdf](Technischer_Bericht_DE.pdf)
-- [14-THz-Ball-Lens-Composite_DE.pdf](14-THz-Ball-Lens-Composite_DE.pdf)
-- [Wissenschaftliches_Supplement_DE.pdf](Wissenschaftliches_Supplement_DE.pdf)
+- [Abschlussbericht](Abschlussbericht_DE.pdf)
+- [Technischer_Bericht](Technischer_Bericht_DE.pdf)
+- [14-THz-Ball-Lens-Composite](14-THz-Ball-Lens-Composite_DE.pdf)
+- [Wissenschaftliches_Supplement](Wissenschaftliches_Supplement_DE.pdf)
