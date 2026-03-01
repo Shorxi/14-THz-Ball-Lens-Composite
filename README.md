@@ -40,6 +40,7 @@ For licensing, collaboration, or commercial inquiries:
 ## 📂 Repository Structure
 
 - [14-THz-Ball-Lens-Composite](14-THz-Ball-Lens-Composite_EN.pdf)
+- [THz Ball Lens_Composite Analysis DE & EN](THz_Ball_Lens_Composite_Analysis_DE_EN.pdf)
 - [Technical_Report](Technical_Report_EN.pdf)
 - [Final_Report](Final_Report_EN.pdf)
 
@@ -88,6 +89,7 @@ Für Lizenzierung, Kooperationen oder kommerzielle Anfragen:
 ## 📂 Repository-Struktur
 
 - [14-THz-Ball-Lens-Composite](14-THz-Ball-Lens-Composite_DE.pdf)
+- [THz Ball Lens_Composite Analysis DE & EN](THz_Ball_Lens_Composite_Analysis_DE_EN.pdf)
 - [Technischer_Bericht](Technischer_Bericht_DE.pdf)
 - [Abschlussbericht](Abschlussbericht_DE.pdf)
 
