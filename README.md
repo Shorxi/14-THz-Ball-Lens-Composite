@@ -26,7 +26,7 @@ See 📄[LICENSE](LICENSE.md)
 
 ---
 
-## 📬[Contact-](contact.md)
+## 📬[Contact](contact.md)
 
 For licensing, collaboration, or commercial inquiries:
 
@@ -74,7 +74,7 @@ Siehe 📄[LICENSE](LICENSE.md)
 
 ---
 
-## 📬[Kontakt-](contact.md)
+## 📬[Kontakt](contact.md)
 
 Für Lizenzierung, Kooperationen oder kommerzielle Anfragen:
 
