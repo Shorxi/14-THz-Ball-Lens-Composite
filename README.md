@@ -1,3 +1,6 @@
+
+<img width="2816" height="1536" alt="14-THz-Ball-Lens-Composite" src="https://github.com/user-attachments/assets/03836688-f116-4790-a0ba-8197ae6cb825" />
+
 EN
 # 14-THz-Ball-Lens-Composite (TBLC)
 ### Hybrid Polymer-Glass Waveguide for Ultra-Low-Loss THz Communication
