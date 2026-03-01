@@ -22,11 +22,11 @@ EN
 The use of **14-THz-Ball-Lens-Composite (TBLC)** is permitted, **but requires fair revenue sharing** to fund future sustainable technology development and the expansion of the free human-AI ecosystem.
 
 Full license terms:  
-See [LICENSE](LICENSE.md)
+See [📄 LICENSE](LICENSE.md)
 
 ---
 
-## 📬 Contact
+##[📬 Contact-](contact.md)
 
 For licensing, collaboration, or commercial inquiries:
 
@@ -39,10 +39,10 @@ For licensing, collaboration, or commercial inquiries:
 
 ## 📂 Repository Structure
 
-- [Final_Report](Final_Report_EN.pdf)
-- [Technical_Report](Technical_Report_EN.pdf)
 - [14-THz-Ball-Lens-Composite](14-THz-Ball-Lens-Composite_EN.pdf)
-- [Scientific_Supplement](Scientific_Supplement_EN.pdf) (Inland data & derivation)
+- [Technical_Report](Technical_Report_EN.pdf)
+- [Final_Report](Final_Report_EN.pdf)
+
 
 ---
 DE
@@ -70,11 +70,11 @@ Der 14-THz-Ball-Lens-Composite (TBLC) Wellenleiter ist eine bahnbrechende Übert
 Die Nutzung von **14-THz-Ball-Lens-Composite (TBLC)** ist erlaubt, **setzt jedoch eine faire Gewinnbeteiligung** zur Finanzierung zukünftiger nachhaltiger Technologieprojekte und des freien Mensch-KI-Ökosystems voraus.
 
 Vollständiger Lizenztext:  
-Siehe [LICENSE](LICENSE.md)
+Siehe [📄 LICENSE](LICENSE.md)
 
 ---
 
-## 📬 Kontakt
+##[📬 Kontakt-](contact.md)
 
 Für Lizenzierung, Kooperationen oder kommerzielle Anfragen:
 
@@ -87,7 +87,8 @@ Für Lizenzierung, Kooperationen oder kommerzielle Anfragen:
 
 ## 📂 Repository-Struktur
 
-- [Abschlussbericht](Abschlussbericht_DE.pdf)
-- [Technischer_Bericht](Technischer_Bericht_DE.pdf)
 - [14-THz-Ball-Lens-Composite](14-THz-Ball-Lens-Composite_DE.pdf)
-- [Wissenschaftliches_Supplement](Wissenschaftliches_Supplement_DE.pdf)
+- [Technischer_Bericht](Technischer_Bericht_DE.pdf)
+- [Abschlussbericht](Abschlussbericht_DE.pdf)
+
+
